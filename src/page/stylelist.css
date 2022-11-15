@@ -1,0 +1,10 @@
+.wrapper{
+    display:grid;
+    grid: template columns 350px 350px 350px;
+    gap:2rem;
+    justify-content: center;
+}
+.Link{
+    padding:0 30px;
+    justify-content: center;
+}
